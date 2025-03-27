@@ -33,7 +33,4 @@ After running `docker-compose up --build`, the container will be started and the
 
 
 ## Developer
-
-<p align="center">
-<a href="https://github.com/AugustoSavi" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/32443720?v=4" alt="Manthan" height="100" width="100" /></a>
-</p>
+......soon video
