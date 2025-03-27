@@ -10,10 +10,10 @@ This project consists of a Python process monitor that uses the `psutil` module 
 ## :information_source: How to use?
 ```bash
 # Clone the repository
-$ git clone https://github.com/kurogai/100-redteam-projects.git
+$ https://github.com/Mistra1n/Process_monitor.git
 
 # Enter the repository
-$ cd 100-redteam-projects/Projects/69_Process_monitor/
+$ cd Process_monitor/
 
 # Open a terminal and run
 $ docker-compose up --build
